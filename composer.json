@@ -18,7 +18,7 @@
   },
   "authors": [],
   "require": {
-    "php": "^8.3",
+    "php": "^8.2 || ^8.3",
     "bitwasp/bech32": "^0.0.1",
     "brick/math": "^0.11",
     "kornrunner/keccak": "^1.1",
